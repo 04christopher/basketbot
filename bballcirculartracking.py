@@ -215,8 +215,14 @@ def detect_basketball(video_path):
         cv2.putText(frame, text, (text_x, text_y), font, font_scale, text_color, thickness)
                 
         hsv_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
-        lower_lime_green = np.array([30, 50, 50])
-        upper_lime_green = np.array([90, 255, 255])
+
+        #under is lime
+        #lower_lime_green = np.array([30, 50, 50])
+        #upper_lime_green = np.array([90, 255, 255])
+       
+        #under is orange threshold
+        lower_lime_green = np.array([5, 100, 100])
+        upper_lime_green = np.array([15, 255, 255]) 
         mask = cv2.inRange(hsv_frame, lower_lime_green, upper_lime_green)
         
         contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
