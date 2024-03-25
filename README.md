@@ -1,3 +1,3 @@
-# team 25
+# Basketbot (Produhacks Winner Team 25)
 
 # Revolutionizing Basketball scorekeeping
