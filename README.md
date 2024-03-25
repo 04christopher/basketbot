@@ -17,4 +17,4 @@ Basketbot is an automatic basketball scorekeeper with a built in game clock. The
     Your browser does not support the video tag.
 </video>
 
-![Alt text](blob/main/demoshot.jpg)
+![Alt text](main/demoshot.jpg)
