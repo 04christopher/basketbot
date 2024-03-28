@@ -8,7 +8,7 @@ Team 25: Troy Wu, Jason Hsu, Christopher Chen, Khai Phan
 
 BasketBot is a sophisticated and user-friendly basketball scorekeeping application that revolutionizes the way scores are tracked in basketball games. Using cutting-edge computer vision and voice recognition technologies, BasketBot offers a seamless and efficient solution to manual scorekeeping, which can be laborious and error-prone. It features object recognition and tracking, built-in game clock, as well as voice command recognition for manual score and timer controls.
 
-###Features
+#Features
 Automated Score Counting: Leveraging the power of OpenCV, BasketBot detects and counts scores accurately, ensuring that players can focus on the game without the hassle of manual scorekeeping.
 
 Voice-Controlled Interface: With integrated voice recognition powered by PyAudio and the VOSK API model, users can interact with BasketBot using simple voice commands to control scores and timer features.
@@ -17,7 +17,7 @@ Machine Learning-Enhanced Net Recognition: Employing machine learning algorithms
 
 Convenient and User-Friendly: Designed to be straightforward and easy to use, BasketBot is perfect for users of all ages and can be set up in any environment, requiring no specialized equipment.
 
-###Tech Stack
+#Tech Stack
 Python: The core programming language for developing the BasketBot's functionality.
 
 OpenCV: For capturing video streams and processing image data to detect scores.
@@ -28,7 +28,7 @@ VOSK: An open-source speech recognition toolkit that provides models for voice c
 
 TensorFlow: An open-source machine learning library used to build the neural network for enhanced net detection.
 
-###How It Works
+#How It Works
 Detection: BasketBot uses OpenCV to process the video feed from the basketball court, detecting the ball and net through color and shape recognition algorithms.
 
 Voice Control: The system listens for specific voice commands using PyAudio and VOSK. When a wake word such as "Hello Basket" is recognized, BasketBot awaits further commands to control the score or set up a game timer.
