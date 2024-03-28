@@ -1,6 +1,6 @@
 # BasketBot - Automatic Basketball Scorekeeper
 
-# Produhacks 2024 Winner 
+# ProduHacks 2024 Winner 
 
 Team 25: Troy Wu, Jason Hsu, Christopher Chen, Khai Phan
 
