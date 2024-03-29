@@ -4,7 +4,7 @@
 
 Team 25: Troy Wu, Jason Hsu, Christopher Chen, Khai Phan
 
-![Alt text]([https://github.com/04christopher/team25/blob/main/demoshot.jpg](https://github.com/04christopher/basketbot/blob/main/DSC07594.jpg))
+![Alt text](https://github.com/04christopher/basketbot/blob/main/DSC07594.jpg)
 
 # Revolutionizing Basketball Scorekeeping
 
