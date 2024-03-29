@@ -4,6 +4,8 @@
 
 Team 25: Troy Wu, Jason Hsu, Christopher Chen, Khai Phan
 
+![Alt text]([https://github.com/04christopher/team25/blob/main/demoshot.jpg](https://github.com/04christopher/basketbot/blob/main/DSC07594.jpg))
+
 # Revolutionizing Basketball Scorekeeping
 
 BasketBot is a sophisticated and user-friendly basketball scorekeeping application that revolutionizes the way scores are tracked in basketball games. Using cutting-edge computer vision and voice recognition technologies, BasketBot offers a seamless and efficient solution to manual scorekeeping, which can be laborious and error-prone. It features object recognition and tracking, built-in game clock, as well as voice command recognition for manual score and timer controls.
