@@ -26,7 +26,7 @@ OpenCV: BasketBot uses OpenCV to process the video feed from the basketball cour
 
 PyAudio: To capture audio streams from the microphone for voice recognition.
 
-VOSK Offline Speech Recognition API: An open-source speech recognition toolkit that provides models for voice command recognition. The system listens for specific voice commands using PyAudio and VOSK. When a wake word such as "Hello Basket" is recognized, BasketBot awaits further commands to control the score or set up a game timer. The user can set a game timer by saying a command like "set timer for 20 minutes," which BasketBot will acknowledge and start counting down, displaying the time left on the screen.
+VOSK Offline Speech Recognition API: An open-source speech recognition toolkit that provides models for voice command recognition. The system listens for specific voice commands using PyAudio and VOSK. When a wake word such as "Hello Basket" is recognized, BasketBot awaits further commands to control the score or set up a game timer. The user can set a game timer by saying a command like "set timer for 20 minutes," which BasketBot will acknowledge and start counting down, displaying the time left on the screen. (Key words are: "Hello Basket," "Reset Score," "Set Timer for ____ minutes," "Pause," "Resume,")
 
 TensorFlow: An open-source machine learning library used to build the neural network for enhanced net detection.
 
